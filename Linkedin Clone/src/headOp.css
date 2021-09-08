@@ -1,0 +1,16 @@
+.headop{
+    display: flex;
+    margin-right: 20px;
+    align-items: center;
+    color: gray;
+    cursor: pointer;
+    flex-direction: column;
+}
+.headop:hover{
+    color: black;
+}
+.headop-icon{
+    object-fit: contain;
+    height: 25px !important;
+    width: 25px !important;
+}
